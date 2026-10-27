@@ -6,32 +6,32 @@ const welcome = "¡Hola! 👋 Te doy la bienvenida a mi sitio web. Diseñé este
 alert (welcome)
 
 
-let doc = "te puede morder";
+let doc = "el perro te puede morder";
 
 
 
     
 
 //variables con condiciones
- let cat = "te puede aruñar" 
-  function ejecutarDemo(){
+ let cat = "el gato te puede aruñar" 
+ 
  if (doc){  
    console.log ("el perro "+doc+" !cuidado¡");
  }else{
     console.log ("el gato "+cat+" !cuidado¡");
 
  }
-}
+
 
 
 //ciclos
-
+ function ejecutarDemo(){
 for (let i=1; i<=10; i++) {
    console.log("guau guau "+i+" cuidado")
 }
 
 console.log(" te mordio el perro")
-
+}
 //// perro atributo
 const docs ={
    nombre:"Beto" ,
