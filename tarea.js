@@ -26,7 +26,7 @@ let doc = "te puede morder";
 
 //ciclos
 
-for (let i=1; i<=3; i++) {
+for (let i=1; i<=10; i++) {
    console.log("guau guau "+i+" cuidado")
 }
 
