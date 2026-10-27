@@ -2,7 +2,7 @@
 // variables 
 
 // para saludar una alerta
-const welcome = "hola bienvenidos";
+const welcome = "¡Hola! 👋 Te doy la bienvenida a mi sitio web. Diseñé este espacio con mucho entusiasmo. ¡Espero que lo disfrutes! Te invito a explorar y descubrir todo lo que he preparado aquí. ";
 alert (welcome)
 
 
